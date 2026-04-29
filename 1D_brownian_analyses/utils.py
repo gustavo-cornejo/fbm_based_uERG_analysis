@@ -52,7 +52,7 @@ def label_lab(a,groups):
             return key
 
 
-def experiment_based_classification(df,age):
+def experiment_based_classification(df,age,n=6):
     
     # Build datasets
     datasets: List[Tuple[str, np.ndarray, np.ndarray]] = [
@@ -61,7 +61,7 @@ def experiment_based_classification(df,age):
             np.asarray(df[i]).reshape(-1, 1),
             np.asarray(df['type'].apply(age))
         )
-        for i in range(6)
+        for i in range(n)
     ]
 
     # Define pipeline
