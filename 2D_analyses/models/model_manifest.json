@@ -1,0 +1,221 @@
+[
+  {
+    "dataset": "energy_level3",
+    "task": "age",
+    "path": "models\\energy_level3__age.joblib",
+    "feature_columns": [
+      "energy_level3"
+    ],
+    "best_params": {
+      "svc__C": 0.01,
+      "svc__kernel": "linear"
+    },
+    "best_cv_score": 0.5666666666666667,
+    "loocv_accuracy": 0.4,
+    "n_samples": 30
+  },
+  {
+    "dataset": "energy_level3",
+    "task": "condition",
+    "path": "models\\energy_level3__condition.joblib",
+    "feature_columns": [
+      "energy_level3"
+    ],
+    "best_params": {
+      "svc__C": 1,
+      "svc__degree": 2,
+      "svc__gamma": "scale",
+      "svc__kernel": "poly"
+    },
+    "best_cv_score": 0.7333333333333334,
+    "loocv_accuracy": 0.7333333333333333,
+    "n_samples": 30
+  },
+  {
+    "dataset": "Entropy",
+    "task": "age",
+    "path": "models\\Entropy__age.joblib",
+    "feature_columns": [
+      "Entropy"
+    ],
+    "best_params": {
+      "svc__C": 100,
+      "svc__gamma": 10,
+      "svc__kernel": "rbf"
+    },
+    "best_cv_score": 0.5000000000000001,
+    "loocv_accuracy": 0.23333333333333334,
+    "n_samples": 30
+  },
+  {
+    "dataset": "Entropy",
+    "task": "condition",
+    "path": "models\\Entropy__condition.joblib",
+    "feature_columns": [
+      "Entropy"
+    ],
+    "best_params": {
+      "svc__C": 0.01,
+      "svc__degree": 4,
+      "svc__gamma": 0.001,
+      "svc__kernel": "poly"
+    },
+    "best_cv_score": 0.5333333333333333,
+    "loocv_accuracy": 0.3,
+    "n_samples": 30
+  },
+  {
+    "dataset": "kldiv",
+    "task": "age",
+    "path": "models\\kldiv__age.joblib",
+    "feature_columns": [
+      "kldiv"
+    ],
+    "best_params": {
+      "svc__C": 1,
+      "svc__gamma": 10,
+      "svc__kernel": "rbf"
+    },
+    "best_cv_score": 0.5666666666666668,
+    "loocv_accuracy": 0.3333333333333333,
+    "n_samples": 30
+  },
+  {
+    "dataset": "kldiv",
+    "task": "condition",
+    "path": "models\\kldiv__condition.joblib",
+    "feature_columns": [
+      "kldiv"
+    ],
+    "best_params": {
+      "svc__C": 100,
+      "svc__gamma": 10,
+      "svc__kernel": "rbf"
+    },
+    "best_cv_score": 0.7333333333333334,
+    "loocv_accuracy": 0.7,
+    "n_samples": 30
+  },
+  {
+    "dataset": "coactiv",
+    "task": "age",
+    "path": "models\\coactiv__age.joblib",
+    "feature_columns": [
+      "mean",
+      "norm",
+      "inf_ratio",
+      "energy",
+      "wb_dist_0",
+      "wb_dist_1",
+      "wb_dist_2",
+      "wb_dist_3",
+      "wb_dist_4",
+      "wb_dist_5",
+      "wb_dist_6",
+      "wb_dist_7",
+      "wb_dist_8"
+    ],
+    "best_params": {
+      "svc__C": 10,
+      "svc__gamma": "scale",
+      "svc__kernel": "rbf"
+    },
+    "best_cv_score": 0.7666666666666666,
+    "loocv_accuracy": 0.7,
+    "n_samples": 30
+  },
+  {
+    "dataset": "coactiv",
+    "task": "condition",
+    "path": "models\\coactiv__condition.joblib",
+    "feature_columns": [
+      "mean",
+      "norm",
+      "inf_ratio",
+      "energy",
+      "wb_dist_0",
+      "wb_dist_1",
+      "wb_dist_2",
+      "wb_dist_3",
+      "wb_dist_4",
+      "wb_dist_5",
+      "wb_dist_6",
+      "wb_dist_7",
+      "wb_dist_8"
+    ],
+    "best_params": {
+      "svc__C": 0.1,
+      "svc__degree": 2,
+      "svc__gamma": 1,
+      "svc__kernel": "poly"
+    },
+    "best_cv_score": 0.6333333333333334,
+    "loocv_accuracy": 0.4666666666666667,
+    "n_samples": 30
+  },
+  {
+    "dataset": "h_est_x",
+    "task": "age",
+    "path": "models\\h_est_x__age.joblib",
+    "feature_columns": [
+      "H_x"
+    ],
+    "best_params": {
+      "svc__C": 10,
+      "svc__gamma": "scale",
+      "svc__kernel": "rbf"
+    },
+    "best_cv_score": 0.6129032258064516,
+    "loocv_accuracy": 0.5806451612903226,
+    "n_samples": 93
+  },
+  {
+    "dataset": "h_est_x",
+    "task": "condition",
+    "path": "models\\h_est_x__condition.joblib",
+    "feature_columns": [
+      "H_x"
+    ],
+    "best_params": {
+      "svc__C": 1,
+      "svc__gamma": "scale",
+      "svc__kernel": "sigmoid"
+    },
+    "best_cv_score": 0.6021505376344086,
+    "loocv_accuracy": 0.3870967741935484,
+    "n_samples": 93
+  },
+  {
+    "dataset": "h_est_y",
+    "task": "age",
+    "path": "models\\h_est_y__age.joblib",
+    "feature_columns": [
+      "H_y"
+    ],
+    "best_params": {
+      "svc__C": 0.01,
+      "svc__degree": 4,
+      "svc__gamma": "scale",
+      "svc__kernel": "poly"
+    },
+    "best_cv_score": 0.6021505376344085,
+    "loocv_accuracy": 0.5483870967741935,
+    "n_samples": 93
+  },
+  {
+    "dataset": "h_est_y",
+    "task": "condition",
+    "path": "models\\h_est_y__condition.joblib",
+    "feature_columns": [
+      "H_y"
+    ],
+    "best_params": {
+      "svc__C": 1,
+      "svc__gamma": "scale",
+      "svc__kernel": "rbf"
+    },
+    "best_cv_score": 0.6129032258064515,
+    "loocv_accuracy": 0.5698924731182796,
+    "n_samples": 93
+  }
+]

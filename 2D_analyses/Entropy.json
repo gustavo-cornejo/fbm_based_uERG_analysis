@@ -1,0 +1,242 @@
+[
+  {
+    "H": 0.9,
+    "sample_id": 0,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "Entropy": 1.988543533787718
+  },
+  {
+    "H": 0.9,
+    "sample_id": 1,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "Entropy": 1.9313264167712532
+  },
+  {
+    "H": 0.9,
+    "sample_id": 2,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "Entropy": 1.9775871037786292
+  },
+  {
+    "H": 0.9,
+    "sample_id": 3,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "Entropy": 2.022605722168632
+  },
+  {
+    "H": 0.9,
+    "sample_id": 4,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "Entropy": 1.9665827304519323
+  },
+  {
+    "H": 0.9,
+    "sample_id": 5,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "Entropy": 2.0076008407141765
+  },
+  {
+    "H": 0.9,
+    "sample_id": 6,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "Entropy": 1.96759462086975
+  },
+  {
+    "H": 0.9,
+    "sample_id": 7,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "Entropy": 1.9823365765875511
+  },
+  {
+    "H": 0.9,
+    "sample_id": 0,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "Entropy": 1.9879205903377002
+  },
+  {
+    "H": 0.9,
+    "sample_id": 1,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "Entropy": 1.9843579318864966
+  },
+  {
+    "H": 0.9,
+    "sample_id": 2,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "Entropy": 1.9816870070751957
+  },
+  {
+    "H": 0.9,
+    "sample_id": 3,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "Entropy": 1.991058083902218
+  },
+  {
+    "H": 0.9,
+    "sample_id": 4,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "Entropy": 2.0050665546700888
+  },
+  {
+    "H": 0.9,
+    "sample_id": 5,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "Entropy": 1.9558126615096734
+  },
+  {
+    "H": 0.9,
+    "sample_id": 0,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "Entropy": 2.0016383809315745
+  },
+  {
+    "H": 0.9,
+    "sample_id": 1,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "Entropy": 2.027196829426514
+  },
+  {
+    "H": 0.9,
+    "sample_id": 2,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "Entropy": 2.027407194280824
+  },
+  {
+    "H": 0.9,
+    "sample_id": 3,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "Entropy": 1.9879964616426473
+  },
+  {
+    "H": 0.9,
+    "sample_id": 4,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "Entropy": 1.9783990359764203
+  },
+  {
+    "H": 0.9,
+    "sample_id": 5,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "Entropy": 1.959528205686069
+  },
+  {
+    "H": 0.9,
+    "sample_id": 6,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "Entropy": 1.9749265188837322
+  },
+  {
+    "H": 0.9,
+    "sample_id": 7,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "Entropy": 1.9925125223529971
+  },
+  {
+    "H": 0.9,
+    "sample_id": 0,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "Entropy": 1.9809136513739374
+  },
+  {
+    "H": 0.9,
+    "sample_id": 1,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "Entropy": 1.97621442563146
+  },
+  {
+    "H": 0.9,
+    "sample_id": 2,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "Entropy": 1.9769523114253376
+  },
+  {
+    "H": 0.9,
+    "sample_id": 3,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "Entropy": 1.9852187020914558
+  },
+  {
+    "H": 0.9,
+    "sample_id": 4,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "Entropy": 2.0082320348547866
+  },
+  {
+    "H": 0.9,
+    "sample_id": 5,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "Entropy": 1.978105330058079
+  },
+  {
+    "H": 0.9,
+    "sample_id": 6,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "Entropy": 1.9458451126327965
+  },
+  {
+    "H": 0.9,
+    "sample_id": 7,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "Entropy": 1.9655947674804586
+  }
+]

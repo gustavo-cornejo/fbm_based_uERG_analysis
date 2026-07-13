@@ -1,0 +1,242 @@
+[
+  {
+    "H": 0.9,
+    "sample_id": 0,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "energy_level3": 0.2059114529675054
+  },
+  {
+    "H": 0.9,
+    "sample_id": 1,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "energy_level3": 0.2220029047299634
+  },
+  {
+    "H": 0.9,
+    "sample_id": 2,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "energy_level3": 0.14747535211210888
+  },
+  {
+    "H": 0.9,
+    "sample_id": 3,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "energy_level3": 0.1730505402291049
+  },
+  {
+    "H": 0.9,
+    "sample_id": 4,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "energy_level3": 0.1609374682677426
+  },
+  {
+    "H": 0.9,
+    "sample_id": 5,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "energy_level3": 0.1692905703157362
+  },
+  {
+    "H": 0.9,
+    "sample_id": 6,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "energy_level3": 0.15705100359082078
+  },
+  {
+    "H": 0.9,
+    "sample_id": 7,
+    "type": "WT_3m",
+    "age": "young",
+    "condition": "Wild-Type",
+    "energy_level3": 0.12590134583308638
+  },
+  {
+    "H": 0.9,
+    "sample_id": 0,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "energy_level3": 0.1931050851512911
+  },
+  {
+    "H": 0.9,
+    "sample_id": 1,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "energy_level3": 0.15239710229481832
+  },
+  {
+    "H": 0.9,
+    "sample_id": 2,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "energy_level3": 0.1633026230025118
+  },
+  {
+    "H": 0.9,
+    "sample_id": 3,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "energy_level3": 0.12505747351621915
+  },
+  {
+    "H": 0.9,
+    "sample_id": 4,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "energy_level3": 0.19344154819732362
+  },
+  {
+    "H": 0.9,
+    "sample_id": 5,
+    "type": "WT_6m",
+    "age": "old",
+    "condition": "Wild-Type",
+    "energy_level3": 0.2558134317954761
+  },
+  {
+    "H": 0.9,
+    "sample_id": 0,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "energy_level3": 0.16199298336559903
+  },
+  {
+    "H": 0.9,
+    "sample_id": 1,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "energy_level3": 0.1790972485705994
+  },
+  {
+    "H": 0.9,
+    "sample_id": 2,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "energy_level3": 0.15698478967621698
+  },
+  {
+    "H": 0.9,
+    "sample_id": 3,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "energy_level3": 0.1485516613374478
+  },
+  {
+    "H": 0.9,
+    "sample_id": 4,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "energy_level3": 0.16978944920895103
+  },
+  {
+    "H": 0.9,
+    "sample_id": 5,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "energy_level3": 0.1631002762191514
+  },
+  {
+    "H": 0.9,
+    "sample_id": 6,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "energy_level3": 0.16505378261774692
+  },
+  {
+    "H": 0.9,
+    "sample_id": 7,
+    "type": "5xFAD_3m",
+    "age": "young",
+    "condition": "5xFAD",
+    "energy_level3": 0.16482001440158012
+  },
+  {
+    "H": 0.9,
+    "sample_id": 0,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "energy_level3": 0.15929203636972158
+  },
+  {
+    "H": 0.9,
+    "sample_id": 1,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "energy_level3": 0.15255760158197074
+  },
+  {
+    "H": 0.9,
+    "sample_id": 2,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "energy_level3": 0.1515405945118906
+  },
+  {
+    "H": 0.9,
+    "sample_id": 3,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "energy_level3": 0.16455871003251493
+  },
+  {
+    "H": 0.9,
+    "sample_id": 4,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "energy_level3": 0.15991191623229487
+  },
+  {
+    "H": 0.9,
+    "sample_id": 5,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "energy_level3": 0.1477126867229165
+  },
+  {
+    "H": 0.9,
+    "sample_id": 6,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "energy_level3": 0.17912608821104206
+  },
+  {
+    "H": 0.9,
+    "sample_id": 7,
+    "type": "5xFAD_6m",
+    "age": "old",
+    "condition": "5xFAD",
+    "energy_level3": 0.1727293728424413
+  }
+]
